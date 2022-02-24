@@ -7,7 +7,7 @@ Trabalho final feito para conclusão do 2º período na matéria de `Programaç�
 
 ## Diagrama de classe 
 
-![Imgur](https://imgur.com/1R4y1yN)
+![Imgur](https://imgur.com/1R4y1yN.jpg)
 
 ## Observações
 
